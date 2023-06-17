@@ -3,7 +3,7 @@
 <!--
 **DomiAndi/DomiAndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Egrese de Ingenieria TI, Actualmente estoy aprendiendo desarrollo Frontend y programacion tanto en Java como en Python.
+Egrese de Ingenieria TI, Actualmente estoy aprendiendo Data Science, desarrollo Frontend y programacion tanto en Java como en Python.
 
 *** Donde pueden contactarme ***
 
