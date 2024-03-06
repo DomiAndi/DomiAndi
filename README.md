@@ -23,6 +23,11 @@ Actualmente, estoy inmersa en un viaje de aprendizaje constante. Mis habilidades
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
+
+## Actualmente Estoy Aprendiendo:
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+
  ## Donde pueden contactarme
 
 - [Linkedin](https://www.linkedin.com/in/leslie-jimenez-navarrete-a4670a1ba/)
