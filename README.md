@@ -9,7 +9,9 @@ Soy una apasionada por la ciencia de datos y el análisis de datos, egrese de In
 
 ## Aprendizaje Actual
 
-Actualmente, estoy inmersa en un viaje de aprendizaje constante. Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX, Backend con Python. También tengo conocimientos en Ciberseguridad.
+Actualmente, estoy inmersa en un viaje de aprendizaje constante. 
+Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX, Backend con Python. 
+También tengo conocimientos en Ciberseguridad.
 
 
 ## Actualmente uso:
