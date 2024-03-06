@@ -36,5 +36,4 @@ También tengo conocimientos en Ciberseguridad.
 
 
  ## Donde pueden contactarme
-
-- [Linkedin](https://www.linkedin.com/in/leslie-jimenez-navarrete-a4670a1ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-jimenez-navarrete-a4670a1ba/)
