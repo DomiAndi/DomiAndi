@@ -37,8 +37,7 @@ También tengo conocimientos en Ciberseguridad.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](URL_DE_TU_ENLACE)
-[![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white)](URL_DE_TU_ENLACE)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]
 
 
  ## Donde pueden contactarme
