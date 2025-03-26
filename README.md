@@ -9,10 +9,9 @@ Soy una apasionada por la ciencia de datos y el análisis de datos, egrese de In
 
 ## Aprendizaje Actual
 
-Actualmente, estoy inmersa en un viaje de aprendizaje constante. 
-Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX, Backend con Python. 
+Actualmente, estoy inmersa en un viaje de aprendizaje constante.  
+Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX, Backend con Python, Ruby y Ruby on Rails.  
 También tengo conocimientos en Ciberseguridad.
-
 
 ## Actualmente uso:
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
