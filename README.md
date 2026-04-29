@@ -10,7 +10,7 @@ Soy una apasionada por la ciencia de datos y el análisis de datos, egrese de In
 ## Aprendizaje Actual
 
 Actualmente, estoy inmersa en un viaje de aprendizaje constante.  
-Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX, Backend con Python, Ruby y Ruby on Rails.  
+Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX, Backend con Python, Node.  
 También tengo conocimientos en Ciberseguridad.
 
 ## Actualmente uso:
@@ -32,7 +32,7 @@ También tengo conocimientos en Ciberseguridad.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -50,12 +50,12 @@ También tengo conocimientos en Ciberseguridad.
 ## 📚 Actualmente Estoy Aprendiendo
 
 ### 📘 Lenguajes
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧩 Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🤖 Data & AI
