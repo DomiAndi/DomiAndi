@@ -60,7 +60,6 @@ También tengo conocimientos en Ciberseguridad.
 
 ### 🤖 Data & AI
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](URL_DE_TU_ENLACE)
 
 
 
