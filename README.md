@@ -57,6 +57,9 @@ Actualmente expandiendo mi caja de herramientas con:
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DomiAndi&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomiAndi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DomiAndi&theme=tokyonight" alt="GitHub Summary Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomiAndi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
